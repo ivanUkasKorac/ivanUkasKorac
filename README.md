@@ -2,7 +2,7 @@ Hi, I’m @ivanUkasKorac
 
 📚I'm a student at the Faculty of electrotechnics and comuputer science (FER) in Zagreb, Croatia.
 
-💻In this git repository you will find some of the projects I created while I was studying:
+💻In my repositories you will find some of the projects I created while I was studying:
   - machine learning algorithm which implements ID3 - decision tree learning
   - password manager program with implemented safety features
   - arbitrage betting scraper service for two Croatian betting sites
