@@ -9,9 +9,9 @@ Hi, I’m @ivanUkasKorac
 
 🧮As you can  see I have a big interest in computer science and am mostly interested in creating algorithms and complicated programs.
  
-👨‍💻While I was studying I became really good at Objest Oriented Programming, especially in Java.
+👨‍💻While I was studying I became really good at Object Oriented Programming, especially in Java.
 
-🧬🔐Currently I'm mostly interested in Machine Learning and Computer security, Cybersecurity, Security of applications, and would love to try and implement both of those in my next project.
+🧬🔐Currently I'm mostly interested in Machine Learning and Computer security, Cybersecurity, Security of applications etc., and would love to try and implement both of those in my next project.
 
 
 <!---
