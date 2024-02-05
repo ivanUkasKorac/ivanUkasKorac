@@ -5,7 +5,6 @@ Hi, I’m @ivanUkasKorac
 💻In my repositories you will find some of the projects I created while I was studying:
   - machine learning algorithm which implements ID3 - decision tree learning
   - password manager program with implemented safety features
-  - arbitrage betting scraper service for two Croatian betting sites
 
 🧮As you can  see I have a big interest in computer science and am mostly interested in creating algorithms and complicated programs.
  
